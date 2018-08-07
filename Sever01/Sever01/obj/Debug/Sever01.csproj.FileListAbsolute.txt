@@ -1,0 +1,8 @@
+D:\SV\Sever01\Sever01\obj\Debug\ResolveAssemblyReference.cache
+D:\SV\Sever01\Sever01\obj\Debug\Sever01.Properties.Resources.resources
+D:\SV\Sever01\Sever01\obj\Debug\Sever01.csproj.GenerateResource.Cache
+D:\SV\Sever01\Sever01\bin\Debug\Sever01.exe
+D:\SV\Sever01\Sever01\bin\Debug\Sever01.pdb
+D:\SV\Sever01\Sever01\obj\Debug\Sever01.exe
+D:\SV\Sever01\Sever01\obj\Debug\Sever01.pdb
+D:\SV\Sever01\Sever01\obj\Debug\ServerApp.btnOpen.resources

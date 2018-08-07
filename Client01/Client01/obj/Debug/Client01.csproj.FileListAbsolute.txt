@@ -1,0 +1,8 @@
+D:\SV\Client01\Client01\obj\Debug\ResolveAssemblyReference.cache
+D:\SV\Client01\Client01\obj\Debug\Client01.Form1.resources
+D:\SV\Client01\Client01\obj\Debug\Client01.Properties.Resources.resources
+D:\SV\Client01\Client01\obj\Debug\Client01.csproj.GenerateResource.Cache
+D:\SV\Client01\Client01\bin\Debug\Client01.exe
+D:\SV\Client01\Client01\bin\Debug\Client01.pdb
+D:\SV\Client01\Client01\obj\Debug\Client01.exe
+D:\SV\Client01\Client01\obj\Debug\Client01.pdb
